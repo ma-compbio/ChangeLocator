@@ -11,7 +11,7 @@ python ChangeLocator.py
 
 ************************************************************************************
 ## Required pre-installed packages
-Phylo-HMRF requires the following packages to be installed:
+ChangeLocator requires the following packages to be installed:
 - Python (tested on version 2.7.15)
 - scikit-learn (tested on version 0.18)
 - NumPy (tested on version 1.13.3)
