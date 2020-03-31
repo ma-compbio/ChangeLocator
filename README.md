@@ -10,7 +10,7 @@ ii. To run the model with default parameter configurations, please use the follo
 python ChangeLocator.py
 
 ************************************************************************************
-# Required pre-installed packages
+## Required pre-installed packages
 Phylo-HMRF requires the following packages to be installed:
 - Python (tested on version 2.7.15)
 - scikit-learn (tested on version 0.18)
