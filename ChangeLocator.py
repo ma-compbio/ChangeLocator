@@ -388,7 +388,6 @@ def run(run_id, read_thresh, max_depth, num_tree, learning_rate, balanced_mode, 
 
 	extra_feature = np.asarray(table['distance']).reshape((-1,1))
 
-	# X = np.load(PATH1+"baseline_vec.npy")
 	if feature_mode==1:
 		build_vec_matrix_mutation(n_base)
 		if n_base==5:
